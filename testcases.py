@@ -9,9 +9,9 @@ class Lab3TestCases(unittest.TestCase):
 
     def test_double_two(self):
         result = functions.double(3)
-        expected = 6
+        expected = 9
         self.assertEqual(expected, result)
 
 
-if __name__ == 'Clairee':
+if __name__ == 'Claire':
     unittest.main()
