@@ -13,5 +13,5 @@ class Lab3TestCases(unittest.TestCase):
         self.assertEqual(expected, result)
 
 
-if __name__ == 'Claire':
+if __name__ == 'Clairee':
     unittest.main()
